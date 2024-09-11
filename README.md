@@ -25,5 +25,6 @@ Ambystoma mexicanum <br>
 Pleurodeles waltl<br>
 Gallus gallus<br>
 Paroedura picta<br>
+Monodelphis domestica<br>
 Homo sapiens<br>
 
