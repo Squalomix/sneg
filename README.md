@@ -1,4 +1,4 @@
-# 
+# Phylome construction
 Standard nomenclature of elasmobranch genes
 
 We collect reliable gene models of diverse chordates and build orthogroups of their protein-coding genes. The primary aim is to establish a chordate-wide overarching correspondence catalogue of gene orthology. From this catalogue, we will also derive standard nomenclature of elasmobranch genes, particularly because of unreliable naming of protein-coding genes in gene models avaliable at NCBI Genome. We plant to perform our first-round orthogroup construction using the species listed below, and we welcome opinions about which species, which assembly version, and which gene model of these individual species should be employed.
