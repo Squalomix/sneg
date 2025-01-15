@@ -11,7 +11,7 @@ inshore hagfish<br>
 Petromyzon marinus<br>
 Geotria australis<br>
 Scyliorhinus torazame<br>
-Hemiscyllium<br>
+Hemiscyllium ocellatum<br>
 Squalus acanthias<br>
 Leucoraja erinacea<br>
 Hemitrygon akajei<br>
