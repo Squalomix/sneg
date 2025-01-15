@@ -5,7 +5,7 @@ We collect reliable gene models from diverse chordate species derived from their
 
 Species list (tentative)<br>
 Drosophila melanogaster<br>
-Branchiostoma<br>
+Branchiostoma lanceolatum<br>
 Ciona intestinalis<br>
 inshore hagfish<br>
 Petromyzon marinus<br>
