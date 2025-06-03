@@ -1,9 +1,13 @@
 # Phylome construction (SNEG Project)
 
+We are compiling reliable gene models from a diverse range of chordate species, based on their chromosome-scale genome assemblies, to establish orthogroups of protein-coding genes and a corresponding phylome. Our primary goal is to generate a comprehensive, chordate-wide catalogue of gene orthology. This catalogue will also serve as the basis for a standardized nomenclature for elasmobranch genes (SNEG), addressing the inconsistencies and misleading gene names currently found in NCBI Genome annotations.
 
-We collect reliable gene models from diverse chordate species derived from their chromosome-scale genome assemblies to establish orthogroups for their protein-coding genes and phylome based on them. The primary objective is to create a comprehensive chordate-wide catalogue of gene orthology. This catalogue will also serve as the foundation for deriving a <strong>standardized nomenclature for elasmobranch genes (SNEG)</strong>, addressing misleading protein-coding gene naming found in gene models available at NCBI Genome. Other platforms like Ensembl and Aliance of Genome Resources provide their original cross-species solutions, but they often are limited to traditional laboratory animals or include an excessive number of species for accessible visualization. Our first round of orthogroup construction will focus on a 'moderate' number of the species listed below, and we invite input on the choice of species, assembly versions, and gene models to be utilized. We conduct this project in collaboration with the group of Toni Gabaldon at IRB and BSC-CNS in Barcelona to provide useful resources.
+While platforms such as Ensembl and the Alliance of Genome Resources offer their own cross-species solutions, these are often restricted to traditional model organisms or encompass an overwhelming number of species, which can hinder intuitive visualization and interpretation. In our initial phase of orthogroup construction, we will focus on a curated, moderate set of species (listed below), and we welcome feedback on the selection of species, genome assembly versions, and gene models to be used.
 
-Species list (tentative)<br>
+This project is being carried out in collaboration with Toni Gabaldón’s group at the IRB and BSC-CNS in Barcelona, with the aim of developing valuable and broadly accessible resources.
+
+
+Species list for the currently ongoing effort:<br>
 Drosophila melanogaster<br>
 Branchiostoma lanceolatum<br>
 Ciona intestinalis<br>
@@ -22,9 +26,10 @@ Danio rerio<br>
 Oryzias latipes<br>
 Xenopus tropicalis<br>
 Ambystoma mexicanum <br>
-Pleurodeles waltl<br>
 Gallus gallus<br>
 Paroedura picta<br>
 Monodelphis domestica<br>
 Homo sapiens<br>
 
+To be included in the future:
+Pleurodeles waltl<br>
